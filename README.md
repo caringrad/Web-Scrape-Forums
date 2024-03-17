@@ -1,4 +1,4 @@
-# Forum Thread to Book Converter
+# Webscraping Forums
 
 This project offers a script for converting phpBB forum threads into a structured book format, where each post is treated as a distinct chapter. Additionally, the script is capable of calculating both the word count per page and the total word count across all pages, providing metrics about the thread's content.
 
